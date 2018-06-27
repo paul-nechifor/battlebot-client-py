@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/battlebot-client-py](http://gitlab.com/paul-nechifor/battlebot-client-py).
+
+Old readme:
+
 # Battlebot Client
 
 This is a Python client for AI battles! This is a boilerplate repository for quickly getting a bot set up that can connect and authenticate with the server. How the bot implements and plays the game is up to you.
